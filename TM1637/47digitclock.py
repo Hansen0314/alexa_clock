@@ -1,21 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# https://raspberrytips.nl/tm1637-4-digit-led-display-raspberry-pi/
-
 import sys
 import time
 import datetime
 import RPi.GPIO as GPIO
 import tm1637
 
-#CLK -> GPIO23 (Pin 16)
-#DI0 -> GPIO24 (Pin 18)
-
-Display = tm1637.TM1637(23,24,tm1637.BRIGHT_TYPICAL)
+Display = tm1637.TM1637(12,13,tm1637.BRIGHT_TYPICAL)
 
 Display.Clear()
-Display.SetBrightnes(1)
+Display.SetBrightnes(5)
 
 while(True):
    now = datetime.datetime.now()
