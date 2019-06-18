@@ -86,14 +86,21 @@ And,you also can use `systemctl status` to view the `rc-local.service`.
 ```shell
 systemctl status rc-local.service
 ```
-## 模型建立
+## moudle bulid
 
 设计一个漂亮的模型是非常重要的，模型如下：
 Designing a beautiful case is a very importantand The case is as follows:
 
-最后，我们通过upbox3D打印机，将各个部件打印出来并安装，最终效果如下：
-Finally, we print out through the upbox3D printer and install the various components . The final result is as follows:
 
+最后，我们通过3D打印机，将各个部件打印出来并安装:
+Finally, we print out through the upbox3D printer and install the various components:
 
-## 成果展示
+![alexa_clock_Overall_internal](https://github.com/hansonCc/alexa_clock/raw/master/doc_image/alexa_clock_Overall_internal.jpg)
+
+More perfect after closing the lid
+
+![alexa_clock_finished](https://github.com/hansonCc/alexa_clock/raw/master/doc_image/alexa_clock_finished.jpg)
+
+## Achievement display
+
 
