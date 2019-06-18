@@ -2,7 +2,7 @@
 
 the clock is a very important part in everyday life.whit the development of technologe,Ordinary clock can not meet the current society.eventually,I successfully embed avs in the clock so that the clock can not only look at the time but also the weather, listen to news, etc.
 
-## 硬件构成
+## Hardware composition
 
 In order to make the alexa clock's compact,the main controller choose raspberry-zreo W that can connect to wifi
 
@@ -17,7 +17,7 @@ Time display using the Grove provided by Seeed - 4-Digit Display
 ![Grove - 4-Digit Display](https://raw.githubusercontent.com/SeeedDocument/Grove-4-Digit_Display/master/img/Grove-4_digit_display.jpg)
 
 
-## 软件设计
+## software design
 
 ### Grove - 4-Digit Display
 
@@ -48,7 +48,7 @@ cd mic_hat
 python alexa.py
 ```
 
-## 开机自启动
+## Boot from boot
 
 It’s a very important step for a complete application to boot up.After we have completed the first authorization, we will not need to authorize it later, so we will not operate the authorization again after booting.command is as follows:
 
