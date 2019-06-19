@@ -1,6 +1,7 @@
-# alexa_clock
+## alexa_clock
 
 the clock is a very important part in everyday life.whit the development of technologe,Ordinary clock can not meet the current society.eventually,I successfully embed avs in the clock so that the clock can not only look at the time but also the weather, listen to news, etc.
+
 
 ## Hardware composition
 
