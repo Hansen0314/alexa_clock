@@ -23,7 +23,7 @@
 
 ### Grove - 4-Digit Display
 
-非常的不幸是我没有[wiki](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)上面关于树莓派的拓展板，所以我将arduino驱动代码改写成了适用于我的硬件的python驱动代码，python驱动代码在我的[github](https://github.com/hansonCc)上面,执行如下命令去驱动`Grove - 4-Digit Display`
+我没有[wiki](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)里面的树莓派拓展板，所以我将适用于arduino的C++库修改成适用于我当前硬件的python库，python库在我的[github](https://github.com/hansonCc)上面，执行如下命令去驱动`Grove - 4-Digit Display`
 
 ```shell
 cd ~
