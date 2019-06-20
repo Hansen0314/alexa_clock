@@ -49,7 +49,7 @@ cd mic_hat
 python alexa.py
 ```
 
-## Boot from boot
+## Autorun on startup
 
 It’s a very important step for a complete application to boot up.After we have completed the first authorization, we will not need to authorize it later, so we will not operate the authorization again after booting.command is as follows:
 
@@ -78,7 +78,7 @@ And,you also can use `systemctl status` to view the `rc-local.service`.
 systemctl status rc-local.service
 ```
 
-## moudle bulid
+## 3D Case
 
 Designing a beautiful case is a very importantand The case is as follows:
 
@@ -92,6 +92,6 @@ More perfect after closing the lid
 
 ![alexa_clock_finished](https://github.com/hansonCc/alexa_clock/raw/master/doc_image/alexa_clock_finished.jpg)
 
-## Achievement display
-
+## Interaction Demo
+[hackster.io](https://www.hackster.io/CHENJUNJ/smart-clock-9a79ed)
 

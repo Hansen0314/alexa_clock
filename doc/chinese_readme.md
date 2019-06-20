@@ -23,7 +23,7 @@
 
 ### Grove - 4-Digit Display
 
-我没有[wiki](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)里面的树莓派拓展板，所以我将适用于arduino的C++库修改成适用于我当前硬件的python库，python库在我的[github](https://github.com/hansonCc)上面，执行如下命令去驱动`Grove - 4-Digit Display`
+我没有[wiki](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)里面的树莓派拓展板，所以我将适用于arduino的C++库修改成适用于我当前硬件的python库，python库在我的[github](https://github.com/hansonCc)上面，执行如下命令去驱动`Grove - 4-Digit Display`。
 
 ```shell
 cd ~
@@ -95,5 +95,5 @@ systemctl status rc-local.service
 ![alexa_clock_finished](https://github.com/hansonCc/alexa_clock/raw/master/doc_image/alexa_clock_finished.jpg)
 
 ## 成果展示
-
+[hackster.io](https://www.hackster.io/CHENJUNJ/smart-clock-9a79ed)
 
